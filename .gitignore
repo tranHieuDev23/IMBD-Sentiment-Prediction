@@ -1,0 +1,5 @@
+IMBD.csv
+__pycache__
+.vscode
+model.h5
+token2id.pkl
